@@ -1,0 +1,4 @@
+[11-Aug-2020 02:11:01 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/xc3cyt7n/public_html/colloboratris/app/Console/Kernel.php on line 8
+[11-Aug-2020 02:12:01 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/xc3cyt7n/public_html/colloboratris/app/Console/Kernel.php on line 8
+[11-Aug-2020 02:13:01 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/xc3cyt7n/public_html/colloboratris/app/Console/Kernel.php on line 8
+[11-Aug-2020 02:14:01 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/xc3cyt7n/public_html/colloboratris/app/Console/Kernel.php on line 8
